@@ -1,0 +1,24 @@
+{
+  "name": "express-swagger-route-generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "log": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiqunz/express-swagger-route-generate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiqunz/express-swagger-route-generate/issues"
+  },
+  "homepage": "https://github.com/zhiqunz/express-swagger-route-generate#readme"
+}
